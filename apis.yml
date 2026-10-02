@@ -1,31 +1,110 @@
 aid: consentx
+
 name: ConsentX
-description: 'ConsentX is a company surfaced via the API Evangelist harvest backlog (source: new-submission)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.consentx.io/api/og?title=ConsentX%3A+consent+management+platform+for+GDPR%2C+CCPA+and+DPDPA
+
+description: ConsentX provides a consent management platform (CMP) that helps websites comply with privacy regulations such as GDPR, CCPA, DPDPA,
+  LGPD, and others. It offers cookie consent banners, prior‑script blocking, consent records, audit evidence, region‑rule engine, and integrations
+  with Google Consent Mode, Global Privacy Control, and AI‑driven privacy scanning. The platform includes tools for data residency, DSAR handling,
+  and a suite of compliance features across multiple jurisdictions.
+
 url: https://raw.githubusercontent.com/api-evangelist/consentx/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:new-submission
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-02 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-02'
+
 modified: '2026-10-02'
+
 tags:
 - Company
-apis: []
+- CMP
+- GDPR
+- CCPA
+- Privacy
+- Consent-Management
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/consentx-plans-pricing.yml
+- type: Compliance
+  url: https://www.consentx.io/trust
+- type: Conformance
+  url: conformance/consentx-conformance.yml
+- type: LLMsTxt
+  url: llms/consentx-llms.txt
+- type: SecurityTxt
+  url: well-known/consentx-security.txt
+- type: WellKnown
+  url: well-known/consentx-well-known.yml
+- type: Hosts
+  url: hosts/consentx-hosts.yml
+- type: Vendors
+  url: vendors/consentx-vendors.yml
+- type: TermsOfService
+  url: https://www.consentx.io/terms
+- type: Security
+  url: https://www.consentx.io/security
+- type: PrivacyPolicy
+  url: https://www.consentx.io/privacy
+- type: Pricing
+  url: https://www.consentx.io/pricing
+- type: Newsroom
+  url: https://www.consentx.io/solutions/media
+- type: Login
+  url: https://app.consentx.io/auth/login
+- type: Blog
+  url: https://www.consentx.io/blog
+- type: TrustCenter
+  url: security/consentx-trust-center.yml
+- type: VulnerabilityDisclosure
+  url: security/consentx-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/consentx-domain-security.yml
 - type: Website
   url: https://www.consentx.io/
 - type: Documentation
   url: https://www.consentx.io/integrations
-x-submission-notes: 'Consent management platform (cookie banner, consent records) by IntelligenceX. |
-  Listed on Kin''s call 2026-10-02 despite: Claims a REST API but docs only show a JS embed (app.consentx.io/api/KEY/embed)
-  and window.ConsentX browser API; no REST endpoints or OpenAPI found.'
-x-submission-probe: root 200; /docs 200 (embed + JS API only); /openapi.json 404; /api 404; llms.txt 200;
-  404 probe 404
+
+apis:
+- name: ConsentX API
+  description: ConsentX provides a JavaScript embed API for consent banners; no REST endpoints or OpenAPI spec were found.
+  humanURL: https://www.consentx.io/docs
+  baseURL: null
+  aid: consentx:consentx-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Documentation pages are JavaScript-rendered and provide only an embed script, no machine‑readable API spec.
+  evidence:
+  - url: https://www.consentx.io/docs
+    status: 200
+
+x-submission-notes: 'Consent management platform (cookie banner, consent records) by IntelligenceX. | Listed on Kin''s call 2026-10-02 despite:
+  Claims a REST API but docs only show a JS embed (app.consentx.io/api/KEY/embed) and window.ConsentX browser API; no REST endpoints or OpenAPI
+  found.'
+
+x-submission-probe: root 200; /docs 200 (embed + JS API only); /openapi.json 404; /api 404; llms.txt 200; 404 probe 404
+
 x-submitted-by: saas@intelligencex.org (apis.io/add, 2026-09-29)
+x-enrichment:
+  date: '2026-10-02'
+  status: enriched
+  artifacts_added: 11
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

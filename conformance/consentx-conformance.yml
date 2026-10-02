@@ -1,0 +1,17 @@
+generated: '2026-10-02'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.consentx.io/compliance/gdpr
+sources:
+- https://www.consentx.io/compliance/gdpr
+- https://www.consentx.io/compliance/uk-gdpr
+- https://www.consentx.io/compliance
+- https://www.consentx.io/features/global-privacy-control
+standards:
+- id: gdpr
+  conforms: true
+  evidence: Compliance GDPR European Union GDPR Compliance & Consent Management with ConsentX
+- id: gdpr
+  conforms: true
+  evidence: UK GDPR compliance with ConsentX
+docs: https://www.consentx.io/compliance/gdpr

@@ -1,0 +1,190 @@
+# ConsentX
+
+> ConsentX is an audit-defensible consent management platform (CMP). It provides geo-aware cookie consent, prior-script blocking, Google Consent Mode v2, Global Privacy Control, a region rule engine, DSAR and grievance handling, and tamper-evident consent receipts and evidence. Coverage across GDPR, UK GDPR, CCPA/CPRA, India's DPDP Act, LGPD, PIPEDA, PDPA, POPIA and many more, in one platform.
+
+Plain-English answer pages explain the privacy and consent law in every country, the authority that enforces it, and how to comply. Pages are available in 37 languages with hreflang.
+
+Full reference with summaries: https://www.consentx.io/llms-full.txt
+
+## Key pages
+- [What is a consent management platform (CMP)?](https://www.consentx.io/consent-management-platform): definition, what a CMP does, and how to choose one
+- [Global privacy laws by country](https://www.consentx.io/compliance): index of every country and regulation
+- [Compliance hub](https://www.consentx.io/compliance): the major frameworks
+- [Features](https://www.consentx.io/features) · [Pricing](https://www.consentx.io/pricing) · [Free cookie scanner](https://www.consentx.io/tools/cookie-scanner)
+- [Sitemap (XML)](https://www.consentx.io/sitemap.xml) · [Sitemap (HTML)](https://www.consentx.io/sitemap)
+
+## Product features
+- [Cookie Consent Banner & CMP](https://www.consentx.io/features/consent-banner): Create a compliant cookie consent banner with granular privacy choices and category-based consent controls.
+- [Prior-Script Blocking for Cookie Consent](https://www.consentx.io/features/prior-script-blocking): Block non-essential cookies, trackers, and scripts before consent to support privacy and cookie compliance.
+- [Google Consent Mode v2 for Consent Management](https://www.consentx.io/features/google-consent-mode-v2): Keep measurement working while you enforce every choice.
+- [Global Privacy Control (GPC) Support](https://www.consentx.io/features/global-privacy-control): Automatically honor Global Privacy Control (GPC) signals and respect browser-based privacy opt-out preferences.
+- [Region Rule Engine for Geo-Aware Consent Management](https://www.consentx.io/features/region-rule-engine): Apply geo-aware consent rules by region and adapt privacy requirements without changing or shipping code.
+- [DSAR & Grievance Management](https://www.consentx.io/features/dsar): Manage data subject access requests and grievances with workflows that help meet privacy compliance deadlines.
+- [Consent Records, Receipts & Audit Evidence](https://www.consentx.io/features/consent-receipts): Prove consent for any visitor and date.
+- [xScan-AI privacy scanner](https://www.consentx.io/features/xscan-ai): See what is firing on your site before consent.
+
+## Regulations (answer pages)
+- [GDPR - European Union](https://www.consentx.io/compliance/gdpr)
+- [UK GDPR - United Kingdom](https://www.consentx.io/compliance/uk-gdpr)
+- [CCPA / CPRA - California, USA](https://www.consentx.io/compliance/ccpa)
+- [VCDPA - Virginia, USA](https://www.consentx.io/compliance/vcdpa)
+- [Colorado CPA - Colorado, USA](https://www.consentx.io/compliance/colorado-cpa)
+- [CTDPA - Connecticut, USA](https://www.consentx.io/compliance/ctdpa)
+- [UCPA - Utah, USA](https://www.consentx.io/compliance/ucpa)
+- [TDPSA - Texas, USA](https://www.consentx.io/compliance/tdpsa)
+- [Oregon OCPA - Oregon, USA](https://www.consentx.io/compliance/oregon-ocpa)
+- [Montana MCDPA - Montana, USA](https://www.consentx.io/compliance/montana-mcdpa)
+- [Florida FDBR - Florida, USA](https://www.consentx.io/compliance/florida-fdbr)
+- [LGPD - Brazil](https://www.consentx.io/compliance/lgpd)
+- [PIPEDA - Canada](https://www.consentx.io/compliance/pipeda)
+- [DPDPA - India](https://www.consentx.io/compliance/dpdpa)
+- [PDPA - Singapore / Thailand](https://www.consentx.io/compliance/pdpa)
+- [POPIA - South Africa](https://www.consentx.io/compliance/popia)
+- [FADP - Switzerland](https://www.consentx.io/compliance/fadp)
+- [Law 25 - Quebec, Canada](https://www.consentx.io/compliance/quebec-law25)
+- [LFPDPPP - Mexico](https://www.consentx.io/compliance/mx-lfpdppp)
+- [PDPL - Argentina](https://www.consentx.io/compliance/ar-pdpl)
+- [Law 21.719 - Chile](https://www.consentx.io/compliance/cl-law21719)
+- [Law 1581 - Colombia](https://www.consentx.io/compliance/co-law1581)
+- [Law 29733 - Peru](https://www.consentx.io/compliance/pe-pdpl)
+- [Law 18.331 - Uruguay](https://www.consentx.io/compliance/uy-law18331)
+- [LOPDP - Ecuador](https://www.consentx.io/compliance/ec-lopdp)
+- [PDPA TH - Thailand](https://www.consentx.io/compliance/th-pdpa)
+- [PIPL - China](https://www.consentx.io/compliance/pipl)
+- [APPI - Japan](https://www.consentx.io/compliance/appi)
+- [PIPA - South Korea](https://www.consentx.io/compliance/pipa)
+- [Privacy Act - Australia](https://www.consentx.io/compliance/au-privacy-act)
+- [Privacy Act 2020 - New Zealand](https://www.consentx.io/compliance/nz-privacy-act)
+- [PDP Law - Indonesia](https://www.consentx.io/compliance/id-pdp)
+- [PDP Law - Vietnam](https://www.consentx.io/compliance/vn-pdpd)
+- [PDPA MY - Malaysia](https://www.consentx.io/compliance/my-pdpa)
+- [DPA - Philippines](https://www.consentx.io/compliance/ph-dpa)
+- [PDPL UAE - United Arab Emirates](https://www.consentx.io/compliance/uae-pdpl)
+- [PDPL KSA - Saudi Arabia](https://www.consentx.io/compliance/sa-pdpl)
+- [PDPPL - Qatar](https://www.consentx.io/compliance/qa-pdppl)
+- [PDPL BH - Bahrain](https://www.consentx.io/compliance/bh-pdpl)
+- [PPL - Israel](https://www.consentx.io/compliance/il-ppl)
+- [KVKK - Turkey](https://www.consentx.io/compliance/kvkk)
+- [NDPA - Nigeria](https://www.consentx.io/compliance/ng-ndpa)
+- [DPA KE - Kenya](https://www.consentx.io/compliance/ke-dpa)
+- [DPA GH - Ghana](https://www.consentx.io/compliance/gh-dpa)
+- [PDPL EG - Egypt](https://www.consentx.io/compliance/eg-pdpl)
+
+## Countries (answer pages)
+### European Union
+- [Germany](https://www.consentx.io/country/germany): Bundesbeauftragter für den Datenschutz und die Informationsfreiheit (BfDI)
+- [France](https://www.consentx.io/country/france): Commission Nationale de l'Informatique et des Libertés (CNIL)
+- [Spain](https://www.consentx.io/country/spain): Agencia Española de Protección de Datos (AEPD)
+- [Italy](https://www.consentx.io/country/italy): Garante per la protezione dei dati personali
+- [Netherlands](https://www.consentx.io/country/netherlands): Autoriteit Persoonsgegevens (AP)
+- [Belgium](https://www.consentx.io/country/belgium): Gegevensbeschermingsautoriteit / Autorité de protection des données (APD / GBA)
+- [Poland](https://www.consentx.io/country/poland): Urząd Ochrony Danych Osobowych (UODO)
+- [Portugal](https://www.consentx.io/country/portugal): Comissão Nacional de Proteção de Dados (CNPD)
+- [Sweden](https://www.consentx.io/country/sweden): Integritetsskyddsmyndigheten (IMY)
+- [Austria](https://www.consentx.io/country/austria): Österreichische Datenschutzbehörde (DSB)
+- [Ireland](https://www.consentx.io/country/ireland): Data Protection Commission (DPC)
+- [Denmark](https://www.consentx.io/country/denmark): Datatilsynet
+- [Finland](https://www.consentx.io/country/finland): Tietosuojavaltuutetun toimisto (Office of the Data Protection Ombudsman)
+- [Greece](https://www.consentx.io/country/greece): Hellenic Data Protection Authority (HDPA)
+- [Czechia](https://www.consentx.io/country/czechia): Úřad pro ochranu osobních údajů (UOOU)
+- [Romania](https://www.consentx.io/country/romania): Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP)
+- [Hungary](https://www.consentx.io/country/hungary): Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)
+- [Bulgaria](https://www.consentx.io/country/bulgaria): Commission for Personal Data Protection (CPDP)
+- [Croatia](https://www.consentx.io/country/croatia): Agencija za zaštitu osobnih podataka (AZOP)
+- [Slovakia](https://www.consentx.io/country/slovakia): Úrad na ochranu osobných údajov Slovenskej republiky
+- [Slovenia](https://www.consentx.io/country/slovenia): Informacijski pooblaščenec (IP-RS)
+- [Lithuania](https://www.consentx.io/country/lithuania): Valstybinė duomenų apsaugos inspekcija (VDAI)
+- [Latvia](https://www.consentx.io/country/latvia): Datu valsts inspekcija (DVI)
+- [Estonia](https://www.consentx.io/country/estonia): Andmekaitse Inspektsioon (AKI)
+- [Luxembourg](https://www.consentx.io/country/luxembourg): Commission nationale pour la protection des données (CNPD)
+- [Cyprus](https://www.consentx.io/country/cyprus): Office of the Commissioner for Personal Data Protection
+- [Malta](https://www.consentx.io/country/malta): Information and Data Protection Commissioner (IDPC)
+### EEA & Europe (non-EU)
+- [Norway](https://www.consentx.io/country/norway): Datatilsynet
+- [Iceland](https://www.consentx.io/country/iceland): Persónuvernd (Icelandic Data Protection Authority)
+- [Liechtenstein](https://www.consentx.io/country/liechtenstein): Datenschutzstelle (Data Protection Office)
+- [Switzerland](https://www.consentx.io/country/switzerland): Federal Data Protection and Information Commissioner (FDPIC)
+### United Kingdom
+- [United Kingdom](https://www.consentx.io/country/united-kingdom): Information Commissioner's Office (ICO)
+### North America
+- [United States](https://www.consentx.io/country/united-states): Federal Trade Commission (FTC) and state attorneys general
+- [Canada](https://www.consentx.io/country/canada): Office of the Privacy Commissioner of Canada (OPC)
+- [Mexico](https://www.consentx.io/country/mexico): Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI)
+### Latin America & Caribbean
+- [Brazil](https://www.consentx.io/country/brazil): Autoridade Nacional de Proteção de Dados (ANPD)
+- [Argentina](https://www.consentx.io/country/argentina): Agencia de Acceso a la Información Pública (AAIP)
+- [Chile](https://www.consentx.io/country/chile): Agencia de Protección de Datos Personales (new under Law 21.719)
+- [Colombia](https://www.consentx.io/country/colombia): Superintendencia de Industria y Comercio (SIC)
+- [Peru](https://www.consentx.io/country/peru): Autoridad Nacional de Protección de Datos Personales
+- [Uruguay](https://www.consentx.io/country/uruguay): Unidad Reguladora y de Control de Datos Personales (URCDP)
+- [Ecuador](https://www.consentx.io/country/ecuador): Superintendencia de Protección de Datos Personales
+### Asia-Pacific
+- [India](https://www.consentx.io/country/india): Data Protection Board of India (to be established under the DPDP Act)
+- [Singapore](https://www.consentx.io/country/singapore): Personal Data Protection Commission (PDPC)
+- [Thailand](https://www.consentx.io/country/thailand): Personal Data Protection Committee (PDPC Thailand)
+- [China](https://www.consentx.io/country/china): Cyberspace Administration of China (CAC)
+- [Japan](https://www.consentx.io/country/japan): Personal Information Protection Commission (PPC)
+- [South Korea](https://www.consentx.io/country/south-korea): Personal Information Protection Commission (PIPC)
+- [Australia](https://www.consentx.io/country/australia): Office of the Australian Information Commissioner (OAIC)
+- [New Zealand](https://www.consentx.io/country/new-zealand): Office of the Privacy Commissioner
+- [Indonesia](https://www.consentx.io/country/indonesia): Personal Data Protection Agency (under MComdigi, being established)
+- [Vietnam](https://www.consentx.io/country/vietnam): Ministry of Public Security (Department A05)
+- [Malaysia](https://www.consentx.io/country/malaysia): Personal Data Protection Department (JPDP)
+- [Philippines](https://www.consentx.io/country/philippines): National Privacy Commission (NPC)
+### Middle East & North Africa
+- [United Arab Emirates](https://www.consentx.io/country/united-arab-emirates): UAE Data Office
+- [Saudi Arabia](https://www.consentx.io/country/saudi-arabia): Saudi Data and Artificial Intelligence Authority (SDAIA)
+- [Qatar](https://www.consentx.io/country/qatar): National Cyber Security Agency (NCSA) Compliance and Data Protection Department
+- [Bahrain](https://www.consentx.io/country/bahrain): Personal Data Protection Authority
+- [Israel](https://www.consentx.io/country/israel): Privacy Protection Authority (PPA)
+- [Turkey](https://www.consentx.io/country/turkey): Kişisel Verileri Koruma Kurumu (KVKK)
+- [Egypt](https://www.consentx.io/country/egypt): Personal Data Protection Center (to be established under the law)
+### Sub-Saharan Africa
+- [South Africa](https://www.consentx.io/country/south-africa): Information Regulator
+- [Nigeria](https://www.consentx.io/country/nigeria): Nigeria Data Protection Commission (NDPC)
+- [Kenya](https://www.consentx.io/country/kenya): Office of the Data Protection Commissioner (ODPC)
+- [Ghana](https://www.consentx.io/country/ghana): Data Protection Commission
+
+## Languages
+Localized hubs (each links its country and regulation pages in that language):
+- [English](https://www.consentx.io/compliance)
+- [Deutsch](https://www.consentx.io/de/compliance)
+- [Français](https://www.consentx.io/fr/compliance)
+- [Español](https://www.consentx.io/es/compliance)
+- [Italiano](https://www.consentx.io/it/compliance)
+- [Nederlands](https://www.consentx.io/nl/compliance)
+- [Português (Portugal)](https://www.consentx.io/pt-pt/compliance)
+- [Português (Brasil)](https://www.consentx.io/pt-br/compliance)
+- [Español (Latinoamérica)](https://www.consentx.io/es-419/compliance)
+- [हिन्दी](https://www.consentx.io/hi/compliance)
+- [日本語](https://www.consentx.io/ja/compliance)
+- [한국어](https://www.consentx.io/ko/compliance)
+- [简体中文](https://www.consentx.io/zh/compliance)
+- [Русский](https://www.consentx.io/ru/compliance)
+- [Bahasa Indonesia](https://www.consentx.io/id/compliance)
+- [ไทย](https://www.consentx.io/th/compliance)
+- [Tiếng Việt](https://www.consentx.io/vi/compliance)
+- [العربية](https://www.consentx.io/ar/compliance)
+- [Türkçe](https://www.consentx.io/tr/compliance)
+- [Polski](https://www.consentx.io/pl/compliance)
+- [Svenska](https://www.consentx.io/sv/compliance)
+- [Ελληνικά](https://www.consentx.io/el/compliance)
+- [Dansk](https://www.consentx.io/da/compliance)
+- [Suomi](https://www.consentx.io/fi/compliance)
+- [Čeština](https://www.consentx.io/cs/compliance)
+- [Română](https://www.consentx.io/ro/compliance)
+- [Magyar](https://www.consentx.io/hu/compliance)
+- [Български](https://www.consentx.io/bg/compliance)
+- [Hrvatski](https://www.consentx.io/hr/compliance)
+- [Slovenčina](https://www.consentx.io/sk/compliance)
+- [Slovenščina](https://www.consentx.io/sl/compliance)
+- [Lietuvių](https://www.consentx.io/lt/compliance)
+- [Latviešu](https://www.consentx.io/lv/compliance)
+- [Eesti](https://www.consentx.io/et/compliance)
+- [Malti](https://www.consentx.io/mt/compliance)
+- [Norsk Bokmål](https://www.consentx.io/nb/compliance)
+- [Íslenska](https://www.consentx.io/is/compliance)
+- [עברית](https://www.consentx.io/he/compliance)
+- [Bahasa Melayu](https://www.consentx.io/ms/compliance)
+
+Total: 65 countries, 45 regulations, 39 languages.

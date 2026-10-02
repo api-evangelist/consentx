@@ -1,0 +1,5 @@
+Contact: mailto:privacy@consentx.io
+Expires: 2027-05-31T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://consentx.io/.well-known/security.txt
+Policy: https://consentx.io/security

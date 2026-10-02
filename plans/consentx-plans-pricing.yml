@@ -1,0 +1,28 @@
+generated: '2026-10-02'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.consentx.io/pricing
+sources:
+- https://www.consentx.io/pricing
+name: ConsentX pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Free
+  price_text: $ 0 / forever
+  price: 0
+  billing_period: monthly
+- name: Pro
+  price_text: $ 39 / month billed annually
+  price: 39
+  billing_period: monthly
+- name: Business
+  price_text: $ 165 / month billed annually
+  price: 165
+  billing_period: monthly
+- name: Enterprise
+  price_text: Custom let's talk
+  limits:
+  - name: pricing_basis
+    limit_text: negotiated
+docs: https://www.consentx.io/pricing
